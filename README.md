@@ -1,1 +1,1 @@
-# Project-1---Heart-Failure-Predict
+# Project 1: Heart Failure Predict
